@@ -21,10 +21,12 @@ In the YouTube Data Analysis Pipeline project, I designed and implemented a robu
 
 The Architecture diagram for the above project is given below : (Note: not all the landing technologies were used, some are just for showing the capability of the pipeline which can be built)
 
-![image](https://github.com/tdsingh9/Yt-data-analysis-pipeline-/assets/86833210/985de11a-df58-4723-a9b1-ccfb8e29fe2f)
+![image](https://github.com/tdsingh9/Yt-data-analysis-pipeline-/assets/86833210/ec43eed0-d2c9-46c4-a264-1a336189ae4a)
+
 
 
 Also, find the architecture diagram for the cleansing process below.
 
-![image](https://github.com/tdsingh9/Yt-data-analysis-pipeline-/assets/86833210/3afa00f9-ece1-4c5a-8e4e-f91f29fe1cbf)
+![image](https://github.com/tdsingh9/Yt-data-analysis-pipeline-/assets/86833210/3055586c-f04f-448f-b079-b6d85c423d05)
+
 
