@@ -19,7 +19,7 @@ In the YouTube Data Analysis Pipeline project, I designed and implemented a robu
 
 --> The primary objective of the YouTube Data Analysis Pipeline project was to provide the necessary infrastructure and tools to analyze YouTube video data and answer key questions related to video categorization and factors impacting video popularity.
 
-The Architecture diagram for the above project is given below : (Note: not all the landing technologies were used, some are just for showing the capability of the pipeline which can be built.
+The Architecture diagram for the above project is given below : (Note: not all the landing technologies were used, some are just for showing the capability of the pipeline which can be built)
 ![image](https://github.com/tdsingh9/Yt-data-analysis-pipeline-/assets/86833210/985de11a-df58-4723-a9b1-ccfb8e29fe2f)
 
 
