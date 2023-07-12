@@ -1,4 +1,4 @@
-# Yt-data-analysis-pipeline
+# YT-data-analysis-pipeline
 Project: YouTube Data Analysis Pipeline
 
 In the YouTube Data Analysis Pipeline project, I designed and implemented a robust architecture to analyze YouTube video data for a data-driven campaign. The key tasks accomplished in this project include:
