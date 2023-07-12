@@ -18,3 +18,4 @@ Data Preprocessing and Cleaning: Implemented an ETL (Extract, Transform, Load) j
 Reporting and Visualization with QuickSight: Built a reporting version of the data and utilized AWS QuickSight for creating insightful visualizations. These visualizations showcased meaningful patterns and trends in the YouTube video data.
 
 The primary objective of the YouTube Data Analysis Pipeline project was to provide the necessary infrastructure and tools to analyze YouTube video data and answer key questions related to video categorization and factors impacting video popularity.
+![image](https://github.com/tdsingh9/Yt-data-analysis-pipeline-/assets/86833210/985de11a-df58-4723-a9b1-ccfb8e29fe2f)
